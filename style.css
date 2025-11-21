@@ -1,13 +1,18 @@
 body {
-  font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 0;
+  background: #f9fbff;
 }
 
 header {
-  background: #003366;
-  color: white;
-  padding: 20px;
+  background: linear-gradient(90deg, #003366, #0066cc);
+}
+
+.spot {
+  background: white;
+  margin: 15px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
 }
 
 nav a {
