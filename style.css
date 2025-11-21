@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background: #003366;
+  color: white;
+  padding: 20px;
+}
+
+nav a {
+  color: white;
+  margin-right: 15px;
+  text-decoration: none;
+}
+
+.spot {
+  padding: 20px;
+  border-bottom: 1px solid #ddd;
+}
+
+.spot h2 {
+  color: #003366;
+}
+footer {
+  text-align: center;
+  padding: 10px;
+  background: #f2f2f2;
+}
